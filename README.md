@@ -2,7 +2,7 @@
 
 A full-stack real-time chat application built with the MERN stack. Users can sign up, log in, message each other instantly, share images, and manage their profile.
 
-**Live repository:** [github.com/Nikhil-bth/Quick-chat](https://github.com/Nikhil-bth/Quick-chat)
+**Repository:** [github.com/Nikhil-bth/Quick-chat](https://github.com/Nikhil-bth/Quick-chat)
 
 ---
 
@@ -31,7 +31,7 @@ A full-stack real-time chat application built with the MERN stack. Users can sig
 ## Project Structure
 
 ```
-QuickChat-Full-Stack/
+Quick-chat/
 ├── client/                 # React frontend (Vite)
 │   ├── src/
 │   │   ├── components/     # UI components
